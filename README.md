@@ -83,15 +83,20 @@ Severals files were added based on the requirements, methodology and approach to
 #### 4.1 Clone this repo 
         The repository of this project need to be cloned into your desired location
 
-#### 4.2 Create virtual environment for your project and add an .env file in same directory with your manage.py
+#### 4.2 Virtual Environment 
+        Create a venv for your project and add an .env file in same directory with your manage.py
 
-#### 4.2 GET API key from Open Weather Map and generate a secret key for your django application. If you have issue to get this done,feel free to reach out,an .env file will be provided
+#### 4.2 GET API key 
+        Get an api key from Open Weather Map and generate a secret key for your django application. If you have issue to get this done,feel free to reach out,an .env file will be provided
  
-#### 4.3 Run requirement.txt file, from your CMD run `pip install requirements.txt` to install all the dependancies of this project
+#### 4.3 Requirementfile, 
+        From your CMD run `pip install requirements.txt` to install all the dependancies of this project
 
-#### 4.4 Do your migrations and package's installations, as the expectation is that the User is able to start a Django application on local machine
+#### 4.4 Migrations and Packages
+        Do your migrations and package's installations, as the expectation is that the User is able to start a Django application on local machine
 
-#### 4.5 Runserver, once your venv is actived, the migrations are done and all dependancies installed, nagivate to the directory of your manage.py then run `python manage.py runserver`
+#### 4.5 Runserver
+        Once your venv is actived, the migrations are done and all dependancies installed, nagivate to the directory of your manage.py then run `python manage.py runserver`
         
 ## 5 Working with the API
 
