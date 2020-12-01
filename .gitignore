@@ -1,0 +1,9 @@
+#  VS CODE env
+.vscode/
+.vscode
+# Pipenv 
+Pipfile
+Pipfile.lock
+
+# env
+.env
