@@ -119,7 +119,7 @@ Click on send button to request the data from the API. AJAX call will be made to
 If inputs are valid, a Chart will be plotted below the form with the requested city weather's data based on the hours interval
 otherwise, Alert message is displayed to indicate the error
 
-## 6 genral comments and future plan
+## 6 General comments and future plan
 
 - The weather API used in this project is Open Weather,an API key is needed before making call to their weather API system.
 
