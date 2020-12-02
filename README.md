@@ -1,6 +1,9 @@
 # Weather-Rest-API
 Python Weather API build with Django Rest
 
+### live on Heroku
+https://afternoon-seas.herokuapp.com/
+
 ## 1. Description
 
 ### 1a. User Story
